@@ -1,7 +1,7 @@
 {
     "name": "danilo/prueba",
     "type": "library",
-    "description": ":package_description",
+    "description": "descripcion",
     "keywords": [
         "danilo",
         "prueba"
@@ -11,9 +11,7 @@
     "authors": [
         {
             "name": "danilo",
-            "email": "danilo.tapiah@gmail.com",
-            "homepage": ":author_website",
-            "role": "Developer"
+            "email": "danilo.tapiah@gmail.com"
         }
     ],
     "require": {
