@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "danilo\\prueba\\": "src"
+            "danilo\\prueba\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "danilo\\prueba\\": "tests"
+            "danilo\\prueba\\": "tests/"
         }
     },
     "scripts": {
