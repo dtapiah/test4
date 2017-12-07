@@ -14,7 +14,7 @@
             "email": "danilo.tapiah@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "illuminate/support": "~5.1",
